@@ -1,0 +1,39 @@
+# Local environment
+.env
+.venv/
+gestureCursor/
+
+# Python cache and build output
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Editor settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Archived Swift build output
+SwiftVision/.build/
+SwiftVision/.build_root/
+SwiftVision/.build_root_2/
+SwiftVision/.swiftpm/
+
+# Archived external repositories
+SwiftVision/opensource/*
+!SwiftVision/opensource/.gitkeep
+!SwiftVision/opensource/*/
+SwiftVision/opensource/*/**
+SwiftVision/opensource_root/*
+SwiftVision/opensource_root/**
