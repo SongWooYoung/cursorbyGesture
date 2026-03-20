@@ -31,9 +31,5 @@ SwiftVision/.build_root_2/
 SwiftVision/.swiftpm/
 
 # Archived external repositories
-SwiftVision/opensource/*
-!SwiftVision/opensource/.gitkeep
-!SwiftVision/opensource/*/
-SwiftVision/opensource/*/**
-SwiftVision/opensource_root/*
-SwiftVision/opensource_root/**
+SwiftVision/opensource/
+SwiftVision/opensource_root/

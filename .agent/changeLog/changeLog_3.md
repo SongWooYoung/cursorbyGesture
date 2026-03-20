@@ -247,3 +247,6 @@
 
 --- 변경 파일: ability.md
 목적 : 스크롤 제스처가 검지/중지 close pose 기반 vertical scroll + horizontal ctrl-arrow navigation이라는 점을 문서에 반영
+
+--- 변경 파일: .gitignore
+목적 : `SwiftVision/opensource/`와 `SwiftVision/opensource_root/` 전체를 Git 추적 대상에서 제외하도록 수정
